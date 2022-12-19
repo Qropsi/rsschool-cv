@@ -1,1 +1,1 @@
-https://qropsi.github.io/rsschool-cv-html/
+https://qropsi.github.io/rsschool-cv/
